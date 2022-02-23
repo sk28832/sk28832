@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shreyank Kadadi!
 - 👀 I’m interested in Data Science, Biology, and Economics/Econometrics
-- 🌱 I’m currently taking the Johns Hopkins Data Science Specialization Course on Coursera
 - 📫 How to reach me: shreyankkadadi@gmail.com
 
 <!---
