@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shreyank Kadadi!
-- 👀 I’m interested in Data Science, Biology, and Economics/Econometrics
+- 👀 I’m interested in Software Engineering, Data Science, Biology, and Economics/Econometrics
 - 📫 How to reach me: shreyankkadadi@gmail.com
 
 <!---
